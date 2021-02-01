@@ -4,4 +4,4 @@
 
 ## Useful Resources
 
-- Superhero API - https://superheroapi.com/
+### Superhero API - https://superheroapi.com/

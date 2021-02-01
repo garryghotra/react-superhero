@@ -32,6 +32,10 @@ function App() {
     <div className="App">
       <Navbar />
       <div className="main">
+        <img
+          src="https://www.comicbasics.com/wp-content/uploads/2019/05/Definitive-Superheroes-List.jpg"
+          style={{ width: "100%", marginBottom: "30px" }}
+        />
         <SearchBar handleChange={handleChange} />
         <SearchResults superheroData={superheroData} />
       </div>
