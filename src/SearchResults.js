@@ -6,6 +6,7 @@ function SearchResults(props) {
 
   return (
     <div>
+      {superheroData.length ? <div>Results: {superheroData.length}</div> : ""}
       {superheroData.map((superhero) => (
         <SearchResultItem data={superhero} />
       ))}

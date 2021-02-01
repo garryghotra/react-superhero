@@ -34,7 +34,7 @@ function App() {
       <div className="main">
         <img
           src="https://www.comicbasics.com/wp-content/uploads/2019/05/Definitive-Superheroes-List.jpg"
-          style={{ width: "100%", marginBottom: "30px" }}
+          style={{ width: "100%", borderRadius: "0 0 20px 20px" }}
         />
         <SearchBar handleChange={handleChange} />
         <SearchResults superheroData={superheroData} />

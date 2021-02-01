@@ -42,8 +42,11 @@ code {
   height: 50px;
   padding-left: 10px;
   font-size: 20px;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
   outline: none;
+  border-radius: 20px;
+  position: relative;
+  top: -52px;
 }
 .search-result {
   display: flex;
