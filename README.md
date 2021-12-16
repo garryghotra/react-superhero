@@ -5,3 +5,5 @@
 ## Useful Resources
 
 ### Superhero API - https://superheroapi.com/
+
+WATCH HOW THE APP WORKS ON https://react-heroes.netlify.app/
